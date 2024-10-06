@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.management.Notification"/>
+<fullyQualifiedTypeName name="creational_design_patterns.factory_pattern.Notification"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="loskov_substitution_principle.Square"/>
+<fullyQualifiedTypeName name="loskov_substitution_principle.Rectangle"/>
+<fullyQualifiedTypeName name="strategy_design_pattern.DriveStrategy"/>
+<fullyQualifiedTypeName name="strategy_design_pattern.NormalDriveStrategy"/>
+<fullyQualifiedTypeName name="strategy_design_pattern.SportsDriveStrategy"/>
+<fullyQualifiedTypeName name="abstarctFactory_designPattern.Vehicle"/>
+<fullyQualifiedTypeName name="abstarctFactory_designPattern.OrdinaryV1"/>
+<fullyQualifiedTypeName name="abstarctFactory_designPattern.LuxuryV1"/>
+<fullyQualifiedTypeName name="abstarctFactory_designPattern.LuxuryFactory"/>
+<fullyQualifiedTypeName name="abstarctFactory_designPattern.OrdinaryFactory"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="observer_design_pattern.StocksObservable"/>
+<fullyQualifiedTypeName name="observer_design_pattern.IphoneObservableImpl"/>
+<fullyQualifiedTypeName name="observer_design_pattern.NotificationAlertObserver"/>
+<fullyQualifiedTypeName name="observer_design_pattern.MobileAlertObserverImpl"/>
+<fullyQualifiedTypeName name="decorator_design_pattern.ToppingDecorator"/>
+<fullyQualifiedTypeName name="decorator_design_pattern.Margherita"/>
+<fullyQualifiedTypeName name="decorator_design_pattern.Mushroom"/>
+<fullyQualifiedTypeName name="decorator_design_pattern.ExtraCheese"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.InfoLogProcessor"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.DebugLogProcessor"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.ErrorLogProcessor"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.LogProcessor"/>
+<fullyQualifiedTypeName name="proxy_design_pattern.EmployeeDao"/>
+<fullyQualifiedTypeName name="proxy_design_pattern.EmployeeDaoImpl"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="proxy_design_pattern.EmployeeDaoProxy"/>
+<fullyQualifiedTypeName name="proxy_design_pattern.EmployeeDo"/>
+<fullyQualifiedTypeName name="facade_design_pattern.EmployeeFacade"/>
+<fullyQualifiedTypeName name="facade_design_pattern2.Notification"/>
+<fullyQualifiedTypeName name="facade_design_pattern2.OrderFacade"/>
+<fullyQualifiedTypeName name="without_bridge_design_pattern.LivingThings"/>
+<fullyQualifiedTypeName name="bridge_design_pattern.BreatheImplementor"/>
+<fullyQualifiedTypeName name="bridge_design_pattern.LivingThings"/>
+<fullyQualifiedTypeName name="bridge_design_pattern.WaterBreatheImplementor"/>
+</qualifiedTypeNameHistroy>
